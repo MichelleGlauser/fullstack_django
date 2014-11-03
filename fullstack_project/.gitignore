@@ -5,3 +5,4 @@ fullstackvenv
 .DS_Store
 config/local
 fullstackdb
+staticfiles
