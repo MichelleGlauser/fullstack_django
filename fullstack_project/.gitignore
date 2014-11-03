@@ -4,3 +4,4 @@ fullstackvenv
 *.pyc
 .DS_Store
 config/local
+fullstackdb
